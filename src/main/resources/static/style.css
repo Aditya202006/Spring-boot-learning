@@ -1,0 +1,42 @@
+body{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f2f2f2;
+}
+
+/* login box */
+.login-box{
+    width: 250px;
+    margin: 120px auto;
+    padding: 20px;
+    background: white;
+    border: 1px solid #ccc;
+}
+
+input{
+    width: 90%;
+    padding: 8px;
+    margin: 8px 0;
+}
+
+button{
+    padding: 8px 12px;
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+/* profile card */
+.profile-card{
+    width: 260px;
+    margin: 100px auto;
+    padding: 20px;
+    background: white;
+    border: 1px solid #ccc;
+}
+
+.profile-card img{
+    width: 120px;
+    border-radius: 50%;
+}
